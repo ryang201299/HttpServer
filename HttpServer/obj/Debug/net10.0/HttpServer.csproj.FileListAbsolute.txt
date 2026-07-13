@@ -1,0 +1,15 @@
+C:\Users\ryang\Documents\Free Time\Learning\dotnet\HttpServer\HttpServer\bin\Debug\net10.0\HttpServer.exe
+C:\Users\ryang\Documents\Free Time\Learning\dotnet\HttpServer\HttpServer\bin\Debug\net10.0\HttpServer.deps.json
+C:\Users\ryang\Documents\Free Time\Learning\dotnet\HttpServer\HttpServer\bin\Debug\net10.0\HttpServer.runtimeconfig.json
+C:\Users\ryang\Documents\Free Time\Learning\dotnet\HttpServer\HttpServer\bin\Debug\net10.0\HttpServer.dll
+C:\Users\ryang\Documents\Free Time\Learning\dotnet\HttpServer\HttpServer\bin\Debug\net10.0\HttpServer.pdb
+C:\Users\ryang\Documents\Free Time\Learning\dotnet\HttpServer\HttpServer\obj\Debug\net10.0\HttpServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ryang\Documents\Free Time\Learning\dotnet\HttpServer\HttpServer\obj\Debug\net10.0\HttpServer.AssemblyInfoInputs.cache
+C:\Users\ryang\Documents\Free Time\Learning\dotnet\HttpServer\HttpServer\obj\Debug\net10.0\HttpServer.AssemblyInfo.cs
+C:\Users\ryang\Documents\Free Time\Learning\dotnet\HttpServer\HttpServer\obj\Debug\net10.0\HttpServer.csproj.CoreCompileInputs.cache
+C:\Users\ryang\Documents\Free Time\Learning\dotnet\HttpServer\HttpServer\obj\Debug\net10.0\HttpServer.sourcelink.json
+C:\Users\ryang\Documents\Free Time\Learning\dotnet\HttpServer\HttpServer\obj\Debug\net10.0\HttpServer.dll
+C:\Users\ryang\Documents\Free Time\Learning\dotnet\HttpServer\HttpServer\obj\Debug\net10.0\refint\HttpServer.dll
+C:\Users\ryang\Documents\Free Time\Learning\dotnet\HttpServer\HttpServer\obj\Debug\net10.0\HttpServer.pdb
+C:\Users\ryang\Documents\Free Time\Learning\dotnet\HttpServer\HttpServer\obj\Debug\net10.0\HttpServer.genruntimeconfig.cache
+C:\Users\ryang\Documents\Free Time\Learning\dotnet\HttpServer\HttpServer\obj\Debug\net10.0\ref\HttpServer.dll
